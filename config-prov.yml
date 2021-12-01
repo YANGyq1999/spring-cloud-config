@@ -1,6 +1,6 @@
 server:
   port: 9527
-  info: dev
+  info: prov
 spring:
   application:
     name: cloud-gateway
